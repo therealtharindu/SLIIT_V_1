@@ -1,0 +1,14 @@
+body {
+    width: 150px;
+}
+.container{  
+    text-align: center;  
+    border: 2px solid red;  
+    width: 150px;  
+    height: 100px;  
+    padding-top: 50px;  
+    }  
+
+#btn{  
+        font-size: 25px;  
+        } 
